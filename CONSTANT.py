@@ -1,3 +1,0 @@
-BLACK = 
-WHITE =
-ORANGE = 
